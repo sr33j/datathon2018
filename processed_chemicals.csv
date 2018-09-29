@@ -1,6 +1,4 @@
-,,,pop_served,weighted_value,avg_contamination
-,,,sum,sum,
-county,chemical_species,year,,,
+county,chemical_species,year,pop_served,weighted_value,avg_contamination
 Abbeville,Arsenic,2005,6354,15885.0,2.5
 Abbeville,Arsenic,2006,6044,15110.0,2.5
 Abbeville,Arsenic,2007,5937,14842.5,2.5
